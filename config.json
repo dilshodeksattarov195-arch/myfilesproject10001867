@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicesonnect",
+        "uuid": 2436435,
+        "checksum": "jd8ff"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
